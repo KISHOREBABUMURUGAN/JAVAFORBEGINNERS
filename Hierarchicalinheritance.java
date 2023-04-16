@@ -3,7 +3,7 @@ class shape{
 	float length ,breadth, radius;
 }
 class rectangle extends shape{
-	public rectangle(float l ,float b) {
+	void rectangle(float l ,float b) {
 		length =l;
 		breadth=b;
 	}
@@ -14,7 +14,7 @@ class rectangle extends shape{
 }
 
 class circle extends shape{
-	public circle(float r) {
+	void circle(float r) {
 		radius =r;
 	}
 	float circle_area() {
@@ -23,7 +23,7 @@ class circle extends shape{
 }
 
 class square extends shape{
-	public square(float l) {
+	void square(float l) {
 		length =l;		
 	}
 	float square_area() {

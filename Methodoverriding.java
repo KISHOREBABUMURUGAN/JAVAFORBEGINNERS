@@ -11,9 +11,6 @@ class user{
 		System.out.println(name);
 		System.out.println(age);
 	}
-	
-	
-	
 }
 class mainprogrammer extends user{
 	String companyname;

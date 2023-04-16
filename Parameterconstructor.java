@@ -1,4 +1,6 @@
 package javafullcoursepart3;
+
+
 class box {
 
 	float length,width;
