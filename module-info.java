@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kimuruga
+ *
+ */
+module encapsulation {
+}
